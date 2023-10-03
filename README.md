@@ -16,6 +16,12 @@ In my free time I like to play games, go shopping or do photography.
 <a href="https://instagram.com/fotografie_byiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fotografie_byiris" height="30" width="40" /></a>
 </p>
 
+### Portfolio
+Visit my portfolio website <a href="https://irisroemermann.nl/"> irisroemermann.nl </a> to see my work!
+
+
+### Git stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xredrosee&show_icons=true&locale=en&layout=compact" alt="xredrosee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xredrosee&show_icons=true&locale=en" alt="xredrosee" /></p>
