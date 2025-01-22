@@ -82,7 +82,6 @@ Visit my portfolio website <a href="https://irisroemermann.nl/"> irisroemermann.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xredrosee&show_icons=true&locale=en" alt="xredrosee" /></p>
 
-
 <!--
 **xRedRosee/xRedRosee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
