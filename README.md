@@ -2,8 +2,8 @@
 
 
 ### About me 👩‍💻
-I'm a 20 year old student living in Limburg, the Netherlands.
-I graduated from havo in 2021 and I'm currently studying ICT & Media Design at Fontys University in Eindhoven. I'm now in semester 7 and pursuing my pre-master's in Communication & Information Sciences at Tilburg University.
+I'm a 21 year old student living in Limburg, the Netherlands.
+I graduated from havo in 2021 and I'm currently studying ICT & Media Design at Fontys University in Eindhoven. At the moment, I’m doing my graduation internship at Embedded Fitness, where I focus on UX/UI design and mobile development.
 I describe myself as a very ambitious person that likes to learn new things and isn't afraid for a challenge!
 In my free time I like to play games, go shopping or do photography.
 
